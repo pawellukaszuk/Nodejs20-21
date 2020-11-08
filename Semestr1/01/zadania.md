@@ -1,4 +1,4 @@
-## Zadania do wykonania w ćwiczeń
+## Zadania do wykonania w czasie ćwiczeń
 
 1. Aplikacja która podczas uruchomienia przywita nas. Aplikacja ma być uruchamiana z poziomu konsoli. (`node ...`).
 
