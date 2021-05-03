@@ -128,4 +128,4 @@ Trzeba pamiętać aby dodać swoje IP do odpowiedniej reguły zapory ('white lis
 
 Do przygotowanej bazy powinniśmy spróbować nawiązać połączenie wykorzystując bibliotekę `mongodb` w `NodeJS`. (przykład użycia jest umieszczony w wskazówkach laboratorium).
 
-Wykorzystując bazę danych MongoDB, stwórzmy aplikację któa wykonuje operacje na użytkownikach: dodawanie, edycje, usuwanie, pobieranie wszystkich, pobieranie określonych. Dane dostępowe do bazy danych powinny być przechowywane w pliku .env
+Wykorzystując bazę danych MongoDB, stwórzmy aplikację która wykonuje operacje na użytkownikach: dodawanie, edycje, usuwanie, pobieranie wszystkich, pobieranie określonych. Dane dostępowe do bazy danych powinny być przechowywane w pliku .env

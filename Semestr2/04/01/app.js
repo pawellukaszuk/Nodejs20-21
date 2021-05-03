@@ -7,6 +7,7 @@ const { ObjectId } = require('mongodb');
 const uri = process.env.MONGODB_CONNECTION;
 
 const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
+
 // łączymy się z bazą danych
 client.connect(async err => {
     // wybieramy odpowiednią bazę danych oraz kolekcję
